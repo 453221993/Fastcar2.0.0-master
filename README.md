@@ -12,7 +12,7 @@
 司机申请结单：
 ![image](https://github.com/lidiwen8/Fastcar/blob/cc5da341664302de7767400c92a7a0c42fba9914/web/Images/%E7%94%B3%E8%AF%B7%E7%BB%93%E5%8D%95.png?raw=true) 
 
-
+共同体让他
 取消订单分为两种：
 乘客取消订单
 司机取消订单
